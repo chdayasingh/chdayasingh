@@ -1,58 +1,59 @@
-# Hey there! 👋 I'm Daya Shankar
+# 👋 Hey, I'm Daya Chaudhary  
 
-I'm a passionate MCA student with a background in BSc Computer Science, aiming to become a proficient full-stack developer. I'm keen on Java, JavaScript, and their application in real-world projects.
+💼 Software Engineer 1A | Frontend Developer | MCA 2024 (University of Delhi)  
+🌍 Based in Delhi, India | Building scalable & user-friendly applications  
+🚀 Passionate about clean UI, problem-solving, and continuous learning  
 
-- 🌱 Currently pursuing MCA from Dept. of Computer Science, Delhi University
-- Secretary @DUCSS | Editor of DUCS Coding club
-- 💻 Working on various projects in Java, JavaScript, React, and more
-- 📚 Constantly learning and enhancing skills in DSA with Java, Python, and web development technologies
-- 📫 Reach me at: 
-  - 📧 dayashankar2001@gmail.com
-  - 🌐 [Portfolio](https://chdayasingh.github.io)
-  - ![Twitter Follow](https://img.shields.io/twitter/follow/chdayasingh?style=social)
+---
 
-## Projects
+## 🔹 About Me  
+- 💻 Currently working as **Software Engineer 1A**  
+- 🎓 Completed **MCA (2024)** from Dept. of Computer Science, University of Delhi  
+- 🤝 Open to collaborating on **frontend projects, hackathons, and open-source**  
+- 📚 Learning advanced **system design, UI/UX patterns, and full-stack growth**  
+- 💬 Ask me about **React, JavaScript, Python, Java, or UI improvements**  
+- 🎉 Fun fact: I love **traveling, teaching, and exploring aviation & education systems**  
 
-### Snake Game using Turtle
-Developed a classic Snake Game using the Turtle graphics library in Python. Implemented game logic, collision detection, and score tracking.
+---
 
-### Todo Web App using Node.js and Express
-Created a dynamic Todo web app allowing users to manage tasks, add new todos, mark completion, and delete tasks.
+## 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chdayasingh)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/chdayasingh)  
 
-### Password Manager using Tkinter in Python
-Designed a password manager application using Tkinter, providing a secure interface to manage passwords.
+---
 
-### Expense Tracker, Notes Keeper, Game Hub
-Developed an intuitive expense tracking app using React and JavaScript.
+## 🛠 Tech Stack  
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
-## Skills
+---
 
-- DSA with Java
-- Python
-- React
-- HTML, CSS, JavaScript
-- Node.js, Express.js
-- MySQL
-- VCS (Git & Github)
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=chdayasingh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=chdayasingh&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chdayasingh&theme=radical&hide_border=false&layout=compact)  
 
-## Certifications
+---
 
-- Java from Coding Ninja
-- Full Stack Web Development
-- 100 Days of Code in Python
+## 🧩 LeetCode Progress  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/chdayasingh?theme=radical&ext=heatmap)](https://leetcode.com/u/chdayasingh/)  
 
-## Education
+---
 
-- **MCA, MCA from Dept. of Computer Science, DU**
-  (2022 - Current)
-- **B.Sc Computer Science (H), ANDC, DU 2018 - 2021**
+## 🏅 Highlights & Achievements  
+- 🎓 **Secretary & CR @ DUCS** | Editor of DUCS Coding Society  
+- 🖥 Built projects like **Expense Tracker, Todo App, Snake Game, Password Manager**  
+- 🌱 Exploring **chess, badminton, swimming, and scuba diving** as side goals  
+- 🏡 Dream: Build something meaningful for society & own my personal home  
 
-## Interests
+---
 
-- Photography
-- Reading
+## 🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=chdayasingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 
-## Connect with Me
+---
 
-- [LinkedIn](https://linkedin.com/in/chdayasingh)
-- [GitHub](https://github.com/chdayasingh)
+## ✨ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=chdayasingh&icon=0&color=0)](https://visitcount.itsvg.in)  
